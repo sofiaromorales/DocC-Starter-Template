@@ -9,6 +9,8 @@ a clear and concise manner.
 
 ## Overview
 
+@Image(source: "DocC.jpeg", alt: "An illustration of DocC logo.”)
+
 Make sure articles tell a compelling story for all developers, including those without technology-specific knowledge. Keep your structure simple and relatively flat.
 
 > Important: Make sure to change the bundle name and identifier in the
@@ -18,8 +20,8 @@ Make sure articles tell a compelling story for all developers, including those w
 
 ### Essentials
 
-- <doc:page-components>
-- <doc:syntax-examples>
+- <doc:syntaxt-examples>
+- <doc:previewing-your-documentation>
 
 ### Learning More
 
